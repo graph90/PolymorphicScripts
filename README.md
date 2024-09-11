@@ -1,10 +1,10 @@
 # PolymorphicScripts
 
-**PolymorphicScripts** features a Python script that dynamically generates polymorphic versions of itself, highlighting advanced techniques in code obfuscation and polymorphism. This project illustrates how to create adaptable, stealth code with self modifying scripts.
+**PolymorphicScripts** features a Python script named `polymorphic_maker.py` that dynamically generates polymorphic versions of itself, highlighting advanced techniques in code obfuscation and polymorphism. This project illustrates how to create adaptable, stealth code with self modifying scripts.
 
 ## Overview
 
-The core of this project is a Python script that autonomously generates new versions of itself with polymorphic properties. Each generated script demonstrates various coding techniques including:
+The core of this project is the `polymorphic_maker.py` script, which autonomously generates new versions of itself with polymorphic properties. Each generated script demonstrates various coding techniques including:
 
 - **Dynamic Function Naming:** Functions are given random names to obscure their purpose.
 - **Advanced Encryption:** Encryption methods are applied to demonstrate data security and obfuscation.
